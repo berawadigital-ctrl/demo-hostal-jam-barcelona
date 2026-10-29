@@ -1,0 +1,75 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.casajambarcelona.com/",
+ "read_at": "2026-10-29T08:05:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.casajambarcelona.com/",
+   "sha256": "17d0f18991d24be17e9a9d5bc0a51f7b558407e618dc00a7248e166ffb5aecbb",
+   "chars": 3803
+  },
+  {
+   "url": "https://www.casajambarcelona.com/albergue-familiar-barcelona/?lang=es",
+   "sha256": "65a38833bb8c867bbc53cf7b730d06b4968f079a8ab4350d4da1d73d675a7182",
+   "chars": 4421
+  },
+  {
+   "url": "https://www.casajambarcelona.com/albergue_habitacion_doble/?lang=es",
+   "sha256": "86c454e2f63fcd0ac77984250b697b91e6bbdcd674e1c1aefee63c295292c311",
+   "chars": 3383
+  },
+  {
+   "url": "https://www.casajambarcelona.com/dorms/",
+   "sha256": "46b7dc5db7787c8834392bdb6005d25af774d47d278f9cf32ddef9db61e7de16",
+   "chars": 2936
+  },
+  {
+   "url": "https://www.casajambarcelona.com/gracia-district/",
+   "sha256": "13073c525e8be568d26f472e09014417183c81189ac572d86c26a37d04296245",
+   "chars": 3857
+  },
+  {
+   "url": "https://www.casajambarcelona.com/how-to-get-casa-jam/",
+   "sha256": "7551934330a93cf1167a1b477ddc283782ad3fa6959bbb864f957fdd4747cc08",
+   "chars": 3489
+  },
+  {
+   "url": "https://www.casajambarcelona.com/legal-terms/",
+   "sha256": "6dafbb11ed0936e76e22760dedab3c72a92d0e7ae6dd16dc5e3f7c94233a6bae",
+   "chars": 22188
+  },
+  {
+   "url": "https://www.casajambarcelona.com/parking/",
+   "sha256": "27e079f06a0788aa360e85771508953a94c922e2ffabe2699da3278a4cc8d60f",
+   "chars": 3784
+  },
+  {
+   "url": "https://www.casajambarcelona.com/services/",
+   "sha256": "6fbefed9b13652a472755d2095b354918b707abc6e47ec60b6058ebe363067ce",
+   "chars": 2880
+  },
+  {
+   "url": "https://www.casajambarcelona.com/terrace/",
+   "sha256": "09dc3511d0c26d53fddc053b4b43d3c5513fd85e4d5dc144a6b7b259763e951e",
+   "chars": 2736
+  }
+ ],
+ "other_pages_read": [
+  "https://www.casajambarcelona.com",
+  "https://www.casajambarcelona.com/actions/",
+  "https://www.casajambarcelona.com/alberg_habitacio_doble/?lang=ca",
+  "https://www.casajambarcelona.com/bike-tours-barcelona/",
+  "https://www.casajambarcelona.com/blog/",
+  "https://www.casajambarcelona.com/collaborators/",
+  "https://www.casajambarcelona.com/ecolectia/",
+  "https://www.casajambarcelona.com/family-hostel-barcelona/",
+  "https://www.casajambarcelona.com/founders-of-casa-jam/",
+  "https://www.casajambarcelona.com/hostel-double-room/",
+  "https://www.casajambarcelona.com/media/",
+  "https://www.casajambarcelona.com/printworkers/",
+  "https://www.casajambarcelona.com/sustainable-tourism-barcelona/",
+  "https://www.casajambarcelona.com/wp-content/plugins/revslider/public/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+  "https://www.casajambarcelona.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888"
+ ]
+}

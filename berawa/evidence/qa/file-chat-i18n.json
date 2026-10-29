@@ -1,0 +1,447 @@
+{
+ "url": "file:///tmp/clon-hostal-jam-barcelona/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene habitaciones dobles o twin con baño privado, habitaciones familiares de 2 a 5 camas con baño privado y dormitorios compartidos (mixtos"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones dobles y familiares tienen baño privado, secador de pelo, toalla, sábanas y edredones, A/C frío y calor, llave electrónica "
+    },
+    {
+     "q": "¿Tienen cunas para bebés?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Es un albergue familiar: ofrece cunas gratis para niños de hasta 2 años, bañeras y tronas para bebés, un espacio de juego infantil y se pued"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Tiene convenio con un aparcamiento cercano (Saba Bamsa Plaça del Sol), con punto de carga para coche eléctrico. Se entrega el tique en recep"
+    },
+    {
+     "q": "¿Es accesible para personas con discapacidad?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Su web indica instalaciones para personas con discapacidad. Para una necesidad concreta, mejor consultarlo antes en info@casajambarcelona.co"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, su web indica que no se admiten mascotas."
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en el Carrer de Montmany 38-42, 08012 Barcelona, en el barrio de Gràcia."
+    },
+    {
+     "q": "¿Cómo llegar desde el aeropuerto?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Desde el aeropuerto: Aerobús hasta Plaça Catalunya (20min), metro L4 desde Passeig de Gràcia hasta Joanic (5min) y unos 5min a pie por Bruni"
+    },
+    {
+     "q": "¿Cómo es la terraza?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La terraza privada tiene yoga por la mañana, sofá de palés, huerto con hierbas aromáticas y aparcamiento seguro para bicis. Casa Jam se cons"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar (va al motor de reservas que usa su web; su web anuncia mejor precio reservando directo) o escribir a "
+    },
+    {
+     "q": "¿Cuál es el correo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono +34 933 155 338 y correo info@casajambarcelona.com. La recepción está abierta 24h/7."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sus términos legales indican que la web es de JamLudaSL (Jam Luda SL), CIF B66127366, con domicilio en Montmany 42, 08012 Barcelona."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar con el botón Reservar (va al motor de reservas que usa su web; su web anuncia mejor precio reservando directo) o escribir a "
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 933 155 338 · info@casajambarcelona.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Es para familias?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té habitacions dobles o twin amb bany privat, habitacions familiars de 2 a 5 llits amb bany privat i dormitoris compartits (mixtos o femenin"
+    },
+    {
+     "q": "Què tenen les habitacions?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions dobles i familiars tenen bany privat, assecador de cabells, tovallola, llençols i edredons, A/C fred i calor, clau electròni"
+    },
+    {
+     "q": "Teniu bressols per a nadons?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És un alberg familiar: ofereix bressols gratis per a nens de fins a 2 anys, banyeres i trones per a nadons, un espai de joc infantil i es po"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Té conveni amb un aparcament proper (Saba Bamsa Plaça del Sol), amb punt de càrrega per a cotxe elèctric. Es lliura el tiquet a recepció i e"
+    },
+    {
+     "q": "És accessible per a persones amb discapacitat?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La seva web indica instal·lacions per a persones amb discapacitat. Per a una necessitat concreta, millor consultar-ho abans a info@casajamba"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, la seva web indica que no s'admeten mascotes."
+    },
+    {
+     "q": "On és?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al Carrer de Montmany 38-42, 08012 Barcelona, al barri de Gràcia."
+    },
+    {
+     "q": "Com arribar des de l'aeroport?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Des de l'aeroport: Aerobús fins a Plaça Catalunya (20min), metro L4 des de Passeig de Gràcia fins a Joanic (5min) i uns 5min a peu per Bruni"
+    },
+    {
+     "q": "Com és la terrassa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La terrassa privada té ioga al matí, sofà de palets, hort amb herbes aromàtiques i aparcament segur per a bicis. Casa Jam es va construir el"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar (va al motor de reserves que fa servir el seu web; el web anuncia millor preu reservant directament) o es"
+    },
+    {
+     "q": "Quin és el correu?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telèfon +34 933 155 338 i correu info@casajambarcelona.com. La recepció és oberta 24h/7."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Els seus termes legals indiquen que el web és de JamLudaSL (Jam Luda SL), CIF B66127366, amb domicili a Montmany 42, 08012 Barcelona."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Pots reservar amb el botó Reservar (va al motor de reserves que fa servir el seu web; el web anuncia millor preu reservant directament) o es"
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 933 155 338 · info@casajambarcelona.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "És per a famílies?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has double or twin rooms with private bathroom, family rooms with 2 to 5 beds and private bathroom, and shared dorms (mixed or female) wi"
+    },
+    {
+     "q": "What do the rooms have?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Double and family rooms have a private bathroom, hairdryer, towel, sheets and duvets, A/C (cooling and heating), electronic key and free WiF"
+    },
+    {
+     "q": "Do you have baby cots?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is a family hostel: free cots for children up to 2 years old, baby baths and high chairs, a kids' play area, and a baby stroller can be r"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It has an agreement with a nearby car park (Saba Bamsa Plaça del Sol), with electric car charging. You hand the ticket in at reception and p"
+    },
+    {
+     "q": "Is it accessible for disabled people?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Its website lists facilities for disabled people. For a specific need, it is best to ask first at info@casajambarcelona.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No, its website says pets are not allowed."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Carrer de Montmany 38-42, 08012 Barcelona, in the Gràcia district."
+    },
+    {
+     "q": "How to get there from the airport?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "From the airport: Aerobus to Plaça Catalunya (20min), metro L4 from Passeig de Gràcia to Joanic (5min) and about 5min on foot via Bruniquer "
+    },
+    {
+     "q": "What is the terrace like?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "The private terrace has morning yoga, a pallet sofa, a garden with herbs and safe bike parking. Casa Jam was built in 2014 with recycled and"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book with the Book button (it goes to the booking engine its website uses; the website advertises the best price when booking direct"
+    },
+    {
+     "q": "What is the email?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone +34 933 155 338 and email info@casajambarcelona.com. Reception is open 24h/7."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Its legal terms say the website belongs to JamLudaSL (Jam Luda SL), CIF B66127366, at Montmany 42, 08012 Barcelona."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book with the Book button (it goes to the booking engine its website uses; the website advertises the best price when booking direct"
+    },
+    {
+     "q": "Is breakfast served?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Is there a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 933 155 338 · info@casajambarcelona.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is it good for families?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Elle propose des chambres doubles ou twin avec salle de bains privée, des chambres familiales de 2 à 5 lits avec salle de bains privée et de"
+    },
+    {
+     "q": "Qu'ont les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres doubles et familiales ont salle de bains privée, sèche-cheveux, serviette, draps et couettes, climatisation chaud/froid, clé él"
+    },
+    {
+     "q": "Avez-vous des lits bébé ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "C'est une auberge familiale : lits bébé gratuits jusqu'à 2 ans, baignoires et chaises hautes pour bébé, un espace de jeux pour enfants, et u"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Elle a un accord avec un parking proche (Saba Bamsa Plaça del Sol), avec recharge pour voiture électrique. On remet le ticket à la réception"
+    },
+    {
+     "q": "Est-ce accessible aux personnes handicapées ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Son site indique des installations pour personnes handicapées. Pour un besoin précis, mieux vaut demander avant à info@casajambarcelona.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Non, son site indique que les animaux ne sont pas admis."
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Elle se trouve Carrer de Montmany 38-42, 08012 Barcelone, dans le quartier de Gràcia."
+    },
+    {
+     "q": "Comment venir depuis l'aéroport ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Depuis l'aéroport : Aerobús jusqu'à Plaça Catalunya (20min), métro L4 de Passeig de Gràcia à Joanic (5min) puis environ 5min à pied par Brun"
+    },
+    {
+     "q": "Comment est la terrasse ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La terrasse privée propose du yoga le matin, un canapé en palettes, un jardin d'herbes aromatiques et un parking à vélos sûr. Casa Jam a été"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver (vers le moteur de réservation de son site ; le site annonce le meilleur prix en direct) ou écr"
+    },
+    {
+     "q": "Quel est l'e-mail ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone +34 933 155 338 et e-mail info@casajambarcelona.com. La réception est ouverte 24h/7."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ses mentions légales indiquent que le site appartient à JamLudaSL (Jam Luda SL), CIF B66127366, Montmany 42, 08012 Barcelone."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver avec le bouton Réserver (vers le moteur de réservation de son site ; le site annonce le meilleur prix en direct) ou écr"
+    },
+    {
+     "q": "Le petit-déjeuner est-il servi ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 933 155 338 · info@casajambarcelona.com."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 933 155 338 · info@casajambarcelona.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Est-ce adapté aux familles ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
