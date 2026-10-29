@@ -1,0 +1,70 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-jam-barcelona",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T08:15:00+01:00",
+ "updated_at": "2026-10-29T08:15:00+01:00",
+ "business": {
+  "name": "Casa Jam Barcelona",
+  "legal_name": "Jam Luda S.L. (JamLudaSL)",
+  "registry_ids": [
+   "CIF B66127366",
+   "Registro Mercantil de Barcelona, hoja B-442853",
+   "AJ000598"
+  ],
+  "url": "https://www.casajambarcelona.com/",
+  "domain": "casajambarcelona.com",
+  "municipality": "Barcelona",
+  "province": "Barcelona",
+  "address": "Carrer de Montmany 38-42 · 08012 Barcelona",
+  "phones": [
+   "+34 933 155 338"
+  ],
+  "emails": [
+   "info@casajambarcelona.com"
+  ],
+  "sector": "albergue familiar en Gràcia"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Casa+Jam+Barcelona/@41.4047637,2.0877015,13z/data=!4m13!1m2!2m1!1sJam+Barcelona!3m9!1s0x12a4a2bc2011234d:0x4c317468c0182b62!5m2!4m1!1i2!8m2!3d41.4047637!4d2.1597993!15sCg1KYW0gQmFyY2Vsb25hWg8iDWphbSBiYXJjZWxvbmGSAQZob3N0ZWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTkJOamN6VUZaM0VBReABAPoBBQieAxBC!16s%2Fg%2F11b6cslqft?hl=es&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+  "date": "2026-10-29T06:55:53+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://hostels32.assd.com/crs4.php?goto=10&cust=200250&type=020&langcrs=S",
+   "ca": "https://hostels32.assd.com/crs4.php?goto=10&cust=200250&type=020&langcrs=S",
+   "en": "https://hostels32.assd.com/crs4.php?goto=10&cust=200250&type=020&langcrs=E",
+   "fr": "https://hostels32.assd.com/crs4.php?goto=10&cust=200250&type=020&langcrs=F"
+  },
+  "note": "Las reservas van al motor de reservas que usa su propia web (formulario BOOK NOW de casajambarcelona.com -> hostels32.assd.com, cliente 200250); el motor no tiene catalan y se enlaza en castellano. La demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.casajambarcelona.com/",
+  "date": "2026-10-29T07:46:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
