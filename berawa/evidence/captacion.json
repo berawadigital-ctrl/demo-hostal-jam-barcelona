@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hostal-jam-barcelona",
+ "maps": {
+  "fecha": "2026-10-29T06:55:53+01:00",
+  "estado": "LEIDA",
+  "ficha": "Resultados",
+  "nota": 4.7,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Casa+Jam+Barcelona/@41.4047637,2.0877015,13z/data=!4m13!1m2!2m1!1sJam+Barcelona!3m9!1s0x12a4a2bc2011234d:0x4c317468c0182b62!5m2!4m1!1i2!8m2!3d41.4047637!4d2.1597993!15sCg1KYW0gQmFyY2Vsb25hWg8iDWphbSBiYXJjZWxvbmGSAQZob3N0ZWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblRVTkJOamN6VUZaM0VBReABAPoBBQieAxBC!16s%2Fg%2F11b6cslqft",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T06:55:53+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Jam Luda S.L.",
+  "cif": "B66127366",
+  "fuente": "https://www.casajambarcelona.com/legal-terms/ (legal terms: «This Website, whose owner is: JamLudaSL with CIF B66127366 and address in Montmany 42 08012 Barcelona»)",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Un solo establecimiento (Casa Jam, albergue familiar en Carrer de Montmany 38-42, Gràcia); la web no presenta otros centros; sin marca de grupo ni brand/operator en OSM."
+ }
+}
